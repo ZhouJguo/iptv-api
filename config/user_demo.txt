@@ -1,8 +1,9 @@
-📺关于资源,#genre#
-冷傲免费分享,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0$!
+📖关于资源,#genre#
+骄傲免费分享,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0$!
 接口软件永远免费,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0$!
 每日维护切勿贩卖,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0$!
 卡或画质不清晰可换源播放,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0$!
+请勿相信任何广告,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0$!
 
 📺央视频道,#genre#
 CCTV-1
